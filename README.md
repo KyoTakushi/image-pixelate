@@ -1,4 +1,4 @@
-# quizzy
+# image-pixelate
 
 ## Project setup
 ```
